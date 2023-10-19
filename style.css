@@ -1,0 +1,86 @@
+*{
+    margin: 0px;
+    font-family: 'inter';
+    
+}
+
+#menusuperior{
+    background-color: #303030;
+    
+
+    
+}
+
+#titulo-menusuperior{
+    margin-left: 150px;
+    padding-top: 150px;
+    color: white;
+    
+    
+    
+}
+
+#texto-menusuperior{
+    margin-left: 150px;
+    margin-top: 25px;
+    color: white;
+    padding-bottom: 50px;
+}
+
+#menuinformacional{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+.menu-informacional{
+    margin: 85px;
+}
+
+.titulo-foto{
+    margin-top: 150px;
+
+}
+#secao-foto{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+#foto{
+    margin: 50px 25px 50px 35px;
+    
+}
+
+#formulario{
+    background-color: #303030;
+    text-align: center;
+}
+
+#titulo-formulario{
+    font-size: 20px;
+    margin:25px;
+    color: white;
+    padding-top: 100px;
+}
+
+input{
+    width: 450px;
+    height: 45px;
+    background-color:#FFFFFF;
+    border-radius:10px;
+    padding-left: 15px;
+    
+}
+
+button{
+    background-color: #C07212;
+    color: white;
+    font-size: Raleway;
+    font-size: 20px;
+    width: 286px;
+    height: 65px;
+    margin-bottom: 25px;
+    border-radius: 15px;
+    cursor: pointer;
+}
